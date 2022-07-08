@@ -8,22 +8,26 @@ redirect_from:
   - /about.html
 ---  
 
-<body style="font-family: Serif;">
+<body>
 
 <h2 style="margin-top: 1em;">Info</h2> 
 <p>
-  Ph.D. Student  <br>
+  PhD Candidate  <br>
   Institute of Operations Research and Analytics (IORA)  <br>
   National University of Singapore (NUS)   <br>
   #04-01, Innovation 4.0, 3 Research Link, Singapore 117602   <br>
-  Email: gcheng [AT] u [DOT] nus [DOT] edu  <br>
+  Email: yangge_xiao@u.nus.edu  <br>
 </p>
-
-<h2>Bio</h2>
-<p>
-Hi, I'm Guang Cheng! I'm currently a second-year Ph.D. student at National University of Singapore.
-I am fortunate to be advised by <a href="https://www.joelgoh.net/" target="_blank" style="color: black">Joel Goh</a>.
-My primary research interests are in data-driven modeling and empirical analysis with applications in healthcare operations management and medical decision making.
-</p>
-
 </body>
+
+## About Me  
+
+My name is Yangge Xiao (肖杨格 in Chinese). I'm currently a fourth-year Ph.D. candidate at National University of Singapore. I am advised by Zhenyu Hu and Gar Goei Loke. My research focuses on mechanism and information design, understanding how to use monetary rewards or information to reduce efficiency loss in presence of information asymmetry and mitigate interest misalignment due to dynamic interaction among game participants.
+
+
+## Research Interests
+- Mechanism Design
+- Information Design
+- Dynamic Programming
+- Joint Prediction and Optimization
+
