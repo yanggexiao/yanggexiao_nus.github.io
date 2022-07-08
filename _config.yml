@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Guang Cheng"
+name                     : &name "Yangge Xiao"
 description              : &description "personal description"
-url                      : https://gcheng-nus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yanggexiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gcheng-nus/gcheng-nus.github.io"
+repository               : "yanggexiao/yanggexiao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guang Cheng"
+  name             : "Yangge Xiao"
   avatar           : "profile.png"
   bio              : ""
   googlescholar    : "https://scholar.google.com/citations?user=Bu71TnQAAAAJ&hl=en"
   SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3036482"
-  email            : "gcheng@u.nus.edu"
+  email            : "yangge_xiao@u.nus.edu"
   researchgate     : "https://www.researchgate.net/profile/Cheng_Guang"
   CV               : "https://gcheng-nus.github.io/CV/CV_gcheng.pdf"
 
