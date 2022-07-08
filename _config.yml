@@ -83,11 +83,11 @@ author:
   name             : "Yangge Xiao"
   avatar           : "profile.png"
   bio              : ""
-  googlescholar    : "https://scholar.google.com/citations?user=Bu71TnQAAAAJ&hl=en"
-  SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3036482"
+  # googlescholar    : "https://scholar.google.com/citations?user=Bu71TnQAAAAJ&hl=en"
+  SSRN             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3111885"
   email            : "yangge_xiao@u.nus.edu"
-  researchgate     : "https://www.researchgate.net/profile/Cheng_Guang"
-  CV               : "https://gcheng-nus.github.io/CV/CV_gcheng.pdf"
+  # researchgate     : "https://www.researchgate.net/profile/Cheng_Guang"
+  # CV               : "https://gcheng-nus.github.io/CV/CV_gcheng.pdf"
 
 
 # Reading Files
